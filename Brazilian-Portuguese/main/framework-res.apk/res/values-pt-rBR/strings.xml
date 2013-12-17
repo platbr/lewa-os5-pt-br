@@ -53,53 +53,53 @@
   <string name="hour_minute_cap_ampm" formatted="false">%-l:%M%^p</string>
   <string name="twelve_hour_time_format">h:mm a</string>
   <string name="twenty_four_hour_time_format">HH:mm</string>
-  <string name="numeric_date" formatted="false">%-m/%-e/%Y</string>
-  <string name="numeric_date_format">M/d/yyyy</string>
+  <string name="numeric_date" formatted="false">%d/%m/%Y</string>
+  <string name="numeric_date_format">dd/MM/yyyy</string>
   <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
-  <string name="month_day_year" formatted="false">%B %-e, %Y</string>
-  <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
-  <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
-  <string name="date_time">%1$s, %2$s</string>
-  <string name="time_date">%1$s, %3$s</string>
-  <string name="abbrev_month_day_year" formatted="false">%b %-e, %Y</string>
-  <string name="month_day" formatted="false">%B %-e</string>
+  <string name="month_day_year" formatted="false">%-e de %B de %Y</string>
+  <string name="time_of_day" formatted="false">%H:%M:%S</string>
+  <string name="date_and_time" formatted="false">%H:%M:%S %d/%m/%Y</string>
+  <string name="date_time">%2$s %1$s</string>
+  <string name="time_date">%1$s %3$s</string>
+  <string name="abbrev_month_day_year" formatted="false">%-e de %B de %Y</string>
+  <string name="month_day" formatted="false">%-e de %B</string>
   <string name="month">%-B</string>
-  <string name="month_year" formatted="false">%B %Y</string>
+  <string name="month_year" formatted="false">%B de %Y</string>
   <string name="abbrev_month_day" formatted="false">%b %-e</string>
   <string name="abbrev_month">%-b</string>
   <string name="abbrev_month_year" formatted="false">%b %Y</string>
-  <string name="time1_time2">%1$s – %2$s</string>
-  <string name="date1_date2">%2$s – %5$s</string>
-  <string name="numeric_md1_md2">%2$s/%3$s – %7$s/%8$s</string>
-  <string name="numeric_wday1_md1_wday2_md2">%1$s, %2$s/%3$s – %6$s, %7$s/%8$s</string>
-  <string name="numeric_mdy1_mdy2">%2$s/%3$s/%4$s – %7$s/%8$s/%9$s</string>
-  <string name="numeric_wday1_mdy1_wday2_mdy2">%1$s, %2$s/%3$s/%4$s – %6$s, %7$s/%8$s/%9$s</string>
-  <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s/%3$s/%4$s, %5$s – %6$s, %7$s/%8$s/%9$s, %10$s</string>
-  <string name="numeric_md1_time1_md2_time2">%2$s/%3$s, %5$s – %7$s/%8$s, %10$s</string>
-  <string name="numeric_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s/%3$s, %5$s – %6$s, %7$s/%8$s, %10$s</string>
-  <string name="numeric_mdy1_time1_mdy2_time2">%2$s/%3$s/%4$s, %5$s – %7$s/%8$s/%9$s, %10$s</string>
-  <string name="wday1_date1_time1_wday2_date2_time2">%1$s, %2$s, %3$s – %4$s, %5$s, %6$s</string>
-  <string name="wday1_date1_wday2_date2">%1$s, %2$s – %4$s, %5$s</string>
-  <string name="date1_time1_date2_time2">%2$s, %3$s – %5$s, %6$s</string>
-  <string name="time_wday_date">%1$s, %2$s, %3$s</string>
+  <string name="time1_time2">%1$s - %2$s</string>
+  <string name="date1_date2">%2$s - %5$s</string>
+  <string name="numeric_md1_md2">%3$s/%2$s - %8$s/%7$s</string>
+  <string name="numeric_wday1_md1_wday2_md2">%1$s, %3$s/%2$s - %6$s, %8$s/%7$s</string>
+  <string name="numeric_mdy1_mdy2">%3$s/%2$s/%4$s - %8$s/%7$s/%9$s</string>
+  <string name="numeric_wday1_mdy1_wday2_mdy2">%1$s, %3$s/%2$s/%4$s - %6$s, %8$s/%7$s/%9$s</string>
+  <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%5$s %1$s, %3$s/%2$s/%4$s - %10$s %6$s, %8$s/%7$s/%9$s</string>
+  <string name="numeric_md1_time1_md2_time2">%5$s %3$s/%2$s - %10$s %8$s/%7$s</string>
+  <string name="numeric_wday1_md1_time1_wday2_md2_time2">%5$s %1$s, %3$s/%2$s - %10$s %6$s, %8$s/%7$s</string>
+  <string name="numeric_mdy1_time1_mdy2_time2">%5$s %3$s/%2$s/%4$s - %10$s %8$s/%7$s/%9$s</string>
+  <string name="wday1_date1_time1_wday2_date2_time2">%3$s %1$s, %2$s - %6$s %4$s, %5$s</string>
+  <string name="wday1_date1_wday2_date2">%1$s, %2$s - %4$s, %5$s</string>
+  <string name="date1_time1_date2_time2">%3$s %2$s - %6$s %5$s</string>
+  <string name="time_wday_date">%1$s %2$s, %3$s</string>
   <string name="wday_date">%2$s, %3$s</string>
-  <string name="time_wday">%1$s, %2$s</string>
-  <string name="same_year_md1_md2">%2$s %3$s – %7$s %8$s</string>
-  <string name="same_year_wday1_md1_wday2_md2">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
-  <string name="same_year_md1_time1_md2_time2">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
-  <string name="same_month_md1_time1_md2_time2">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
-  <string name="same_year_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
-  <string name="same_month_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
-  <string name="same_year_mdy1_time1_mdy2_time2">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
-  <string name="same_month_mdy1_time1_mdy2_time2">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
-  <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
-  <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
-  <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %2$s %3$s, %4$s – %6$s, %7$s %8$s, %9$s</string>
-  <string name="same_month_md1_md2">%2$s %3$s – %8$s</string>
-  <string name="same_month_wday1_md1_wday2_md2">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
-  <string name="same_year_mdy1_mdy2">%2$s %3$s – %7$s %8$s, %9$s</string>
-  <string name="same_month_mdy1_mdy2">%2$s %3$s – %8$s, %9$s</string>
-  <string name="same_year_wday1_mdy1_wday2_mdy2">%1$s, %2$s %3$s – %6$s, %7$s %8$s, %9$s</string>
+  <string name="time_wday">%2$s %1$s</string>
+  <string name="same_year_md1_md2">%3$s de %2$s - %8$s de %7$s</string>
+  <string name="same_year_wday1_md1_wday2_md2">%1$s, %3$s de %2$s - %6$s, %8$s de %7$s</string>
+  <string name="same_year_md1_time1_md2_time2">%5$s %3$s de %2$s - %10$s %8$s de %7$s</string>
+  <string name="same_month_md1_time1_md2_time2">%5$s %3$s de %2$s - %10$s %8$s de %7$s</string>
+  <string name="same_year_wday1_md1_time1_wday2_md2_time2">%5$s %1$s, %3$s de %2$s - %10$s %6$s, %8$s de %7$s</string>
+  <string name="same_month_wday1_md1_time1_wday2_md2_time2">%5$s %1$s, %3$s de %2$s - %10$s %6$s, %8$s de %7$s</string>
+  <string name="same_year_mdy1_time1_mdy2_time2">%5$s %3$s de %2$s de %4$s - %10$s %8$s de %7$s de %9$s</string>
+  <string name="same_month_mdy1_time1_mdy2_time2">%5$s %3$s de %2$s de %4$s - %10$s %8$s de %7$s de %9$s</string>
+  <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%5$s %1$s, %3$s de %2$s de %4$s - %10$s %6$s, %8$s de %7$s de %9$s</string>
+  <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%5$s %1$s, %3$s de %2$s de %4$s - %10$s %6$s, %8$s de %7$s de %9$s</string>
+  <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %3$s de %2$s de %4$s - %6$s, %8$s de %7$s de %9$s</string>
+  <string name="same_month_md1_md2">%3$s-%8$s de %2$s</string>
+  <string name="same_month_wday1_md1_wday2_md2">%1$s, %3$s de %2$s - %6$s, %8$s de %7$s</string>
+  <string name="same_year_mdy1_mdy2">%3$s de %2$s - %8$s de %7$s de %9$s</string>
+  <string name="same_month_mdy1_mdy2">%3$s-%8$s de %2$s de %9$s</string>
+  <string name="same_year_wday1_mdy1_wday2_mdy2">%1$s, %3$s de %2$s - %6$s, %8$s de %7$s de %9$s</string>
   <string name="short_format_month">%b</string>
   <string name="full_wday_month_day_no_year">EEEE, d \'de\' MMMM</string>
   <string name="abbrev_wday_month_day_no_year">EEE, d \'de\' MMMM</string>
@@ -195,7 +195,7 @@
   <string name="cfTemplateRegisteredTime">{0}: Não encaminhada</string>
   <string name="fcComplete">Código de função concluído</string>
   <string name="fcError">Impossível conectar à rede ou código de função inválido</string>
-  <string name="httpErrorOk">OK</string>
+  <string name="httpErrorOk">Concluído</string>
   <string name="httpError">Erro de rede</string>
   <string name="httpErrorLookup">"Impossível encontrar URL."</string>
   <string name="httpErrorUnsupportedAuthScheme">"O esquema de autenticação do site não é suportado."</string>
@@ -234,9 +234,9 @@
   <string name="global_actions">Opções do Telefone</string>
   <string name="global_action_lock">Bloqueio de tela</string>
   <string name="global_action_power_off">Desligar</string>
-  <string name="global_action_bug_report">Bug report</string>
-  <string name="bugreport_title">Take bug report</string>
-  <string name="bugreport_message">This will collect information about your current device state, to send as an e-mail message. It will take a little time from starting the bug report until it is ready to be sent; please be patient.</string>
+  <string name="global_action_bug_report">Relatório de bugs</string>
+  <string name="bugreport_title">Obter relatório de bugs</string>
+  <string name="bugreport_message">Isto coletará informações sobre o estado atual do telefone para enviá-las em uma mensagem de e-mail. Após iniciar o relatório de bugs, será necessário aguardar algum tempo até que esteja pronto para ser enviado.</string>
   <string name="global_action_toggle_silent_mode">Modo silencioso</string>
   <string name="global_action_silent_mode_on_status">Som DESL.</string>
   <string name="global_action_silent_mode_off_status">Som LIG.</string>
@@ -251,44 +251,44 @@
   <string name="permgroupdesc_messages">Leia e escreva seus SMS, e-mails e outras mensagens</string>
   <string name="permgrouplab_personalInfo">Informações pessoais</string>
   <string name="permgroupdesc_personalInfo">Acesso direto aos Contatos e Calendário do dispositivo</string>
-  <string name="permgrouplab_socialInfo">Your social information</string>
-  <string name="permgroupdesc_socialInfo">Direct access to information about your contacts and social connections.</string>
+  <string name="permgrouplab_socialInfo">Suas informações sociais</string>
+  <string name="permgroupdesc_socialInfo">Acesso direto às informações de seus contatos e conexões sociais.</string>
   <string name="permgrouplab_location">Sua localização</string>
   <string name="permgroupdesc_location">Monitorar sua localização física</string>
   <string name="permgrouplab_network">Comunicação de rede</string>
   <string name="permgroupdesc_network">Permitir aplicações acessarem várias funções da rede</string>
   <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>
-  <string name="permgroupdesc_bluetoothNetwork">Access devices and networks through Bluetooth.</string>
-  <string name="permgrouplab_audioSettings">Audio Settings</string>
-  <string name="permgroupdesc_audioSettings">Change audio settings.</string>
-  <string name="permgrouplab_affectsBattery">Affects Battery</string>
-  <string name="permgroupdesc_affectsBattery">Use features that can quickly drain battery.</string>
-  <string name="permgrouplab_calendar">Calendar</string>
-  <string name="permgroupdesc_calendar">Direct access to calendar and events.</string>
-  <string name="permgrouplab_dictionary">Read User Dictionary</string>
-  <string name="permgroupdesc_dictionary">Read words in user dictionary.</string>
-  <string name="permgrouplab_writeDictionary">Write User Dictionary</string>
-  <string name="permgroupdesc_writeDictionary">Add words to the user dictionary.</string>
-  <string name="permgrouplab_bookmarks">Bookmarks and History</string>
-  <string name="permgroupdesc_bookmarks">Direct access to bookmarks and browser history.</string>
-  <string name="permgrouplab_deviceAlarms">Alarm</string>
-  <string name="permgroupdesc_deviceAlarms">Set the alarm clock.</string>
-  <string name="permgrouplab_voicemail">Voicemail</string>
-  <string name="permgroupdesc_voicemail">Direct access to voicemail.</string>
-  <string name="permgrouplab_microphone">Microphone</string>
-  <string name="permgroupdesc_microphone">Direct access to the microphone to record audio.</string>
-  <string name="permgrouplab_camera">Camera</string>
-  <string name="permgroupdesc_camera">Direct access to camera for image or video capture.</string>
-  <string name="permgrouplab_appInfo">Your applications information</string>
-  <string name="permgroupdesc_appInfo">Ability to affect behavior of other applications on your device.</string>
-  <string name="permgrouplab_wallpaper">Wallpaper</string>
-  <string name="permgroupdesc_wallpaper">Change the device wallpaper settings.</string>
-  <string name="permgrouplab_systemClock">Clock</string>
-  <string name="permgroupdesc_systemClock">Change the device time or timezone.</string>
-  <string name="permgrouplab_statusBar">Status Bar</string>
-  <string name="permgroupdesc_statusBar">Change the device status bar settings.</string>
-  <string name="permgrouplab_syncSettings">Sync Settings</string>
-  <string name="permgroupdesc_syncSettings">Access to the sync settings.</string>
+  <string name="permgroupdesc_bluetoothNetwork">Acessar telefones e redes por meio do Bluetooth.</string>
+  <string name="permgrouplab_audioSettings">Configurações de áudio</string>
+  <string name="permgroupdesc_audioSettings">Alterar as configurações de áudio.</string>
+  <string name="permgrouplab_affectsBattery">Afeta a bateria</string>
+  <string name="permgroupdesc_affectsBattery">Usar recursos que podem descarregar a bateria rapidamente.</string>
+  <string name="permgrouplab_calendar">Agenda</string>
+  <string name="permgroupdesc_calendar">Acesso direto ao calendário e eventos.</string>
+  <string name="permgrouplab_dictionary">Ler o dicionário do usuário</string>
+  <string name="permgroupdesc_dictionary">Ler as palavras do dicionário do usuário.</string>
+  <string name="permgrouplab_writeDictionary">Escrever no dicionário do usuário</string>
+  <string name="permgroupdesc_writeDictionary">Adicionar palavras ao dicionário do usuário.</string>
+  <string name="permgrouplab_bookmarks">Favoritos e histórico</string>
+  <string name="permgroupdesc_bookmarks">Acesso direto aos favoritos e histórico do navegador.</string>
+  <string name="permgrouplab_deviceAlarms">Alarme</string>
+  <string name="permgroupdesc_deviceAlarms">Configurar o despertador.</string>
+  <string name="permgrouplab_voicemail">Correio de voz</string>
+  <string name="permgroupdesc_voicemail">Acesso direto ao correio de voz.</string>
+  <string name="permgrouplab_microphone">Microfone</string>
+  <string name="permgroupdesc_microphone">Acesso direto ao microfone para gravação de áudio.</string>
+  <string name="permgrouplab_camera">Câmera</string>
+  <string name="permgroupdesc_camera">Acesso direto à câmera para captura de imagens ou vídeo.</string>
+  <string name="permgrouplab_appInfo">Informações sobre seus aplicativos</string>
+  <string name="permgroupdesc_appInfo">Capacidade de afetar o comportamento de outros aplicativos no telefone.</string>
+  <string name="permgrouplab_wallpaper">Papel de parede</string>
+  <string name="permgroupdesc_wallpaper">Alterar as configurações de papel de parede do telefone.</string>
+  <string name="permgrouplab_systemClock">Relógio</string>
+  <string name="permgroupdesc_systemClock">Alterar a hora ou fuso horário.</string>
+  <string name="permgrouplab_statusBar">Barra de status</string>
+  <string name="permgroupdesc_statusBar">Alterar as configurações da barra de status.</string>
+  <string name="permgrouplab_syncSettings">Conf. de sincronização</string>
+  <string name="permgroupdesc_syncSettings">Acesso às config. de sincronização.</string>
   <string name="permgrouplab_accounts">Suas contas</string>
   <string name="permgroupdesc_accounts">Acessar contas disponíveis</string>
   <string name="permgrouplab_hardwareControls">Controles de hardware</string>
@@ -299,8 +299,8 @@
   <string name="permgroupdesc_systemTools">Acesso e controle de nível inferior do sistema</string>
   <string name="permgrouplab_developmentTools">Ferramentas de desenvolvimento</string>
   <string name="permgroupdesc_developmentTools">Funções necessárias apenas para os desenvolvedores de aplicações</string>
-  <string name="permgrouplab_display">Other Application UI</string>
-  <string name="permgroupdesc_display">Effect the UI of other applications.</string>
+  <string name="permgrouplab_display">Outra interface</string>
+  <string name="permgroupdesc_display">Afeta a interface de outros aplicativos.</string>
   <string name="permgrouplab_storage">Armazenamento</string>
   <string name="permgroupdesc_storage">Acessar ao armazenamento USB</string>
   <string name="permlab_statusBar">desativar ou modificar barra de status</string>
@@ -331,12 +331,12 @@
   <string name="permdesc_receiveWapPush">Permite à aplicação receber e processar mensagens WAP. Aplicações maliciosas podem monitorar as mensagens e apagá-las sem mostrar ao usuário</string>
   <string name="permlab_getTasks">obter aplicações em execução</string>
   <string name="permdesc_getTasks">Permite à aplicação obter informações sobre tarefas executadas atualmente e recentemente. Pode permitir que aplicações maliciosas descubram informações privadas sobre outras aplicações</string>
-  <string name="permlab_interactAcrossUsers">interact across users</string>
-  <string name="permdesc_interactAcrossUsers">Allows the app to perform actions across different users on the device. Malicious apps may use this to violate the protection between users.</string>
-  <string name="permlab_interactAcrossUsersFull">full license to interact across users</string>
-  <string name="permdesc_interactAcrossUsersFull">Allows all possible interactions across users.</string>
-  <string name="permlab_manageUsers">manage users</string>
-  <string name="permdesc_manageUsers">Allows apps to manage users on the device, including query, creation and deletion.</string>
+  <string name="permlab_interactAcrossUsers">interagir entre os usuários</string>
+  <string name="permdesc_interactAcrossUsers">Permite que o aplicativo execute ações entre os diversos usuários do aparelho. Aplicativos mal-intencionados podem usar isto para violar a proteção entre os usuários.</string>
+  <string name="permlab_interactAcrossUsersFull">permissão total para interagir entre os usuários</string>
+  <string name="permdesc_interactAcrossUsersFull">Permite todas as interações possíveis entre os usuários.</string>
+  <string name="permlab_manageUsers">gerenciar usuários</string>
+  <string name="permdesc_manageUsers">Permite que os aplicativos gerenciem os usuários do telefone, incluindo a consulta, a criação e a exclusão de usuários.</string>
   <string name="permlab_getDetailedTasks">recuperar detalhes da execução de aplicações</string>
   <string name="permdesc_getDetailedTasks">Permite que o aplicativo obtenha informações detalhadas sobre a execução atual ou tarefas recentes. Aplicativos maliciosos podem descobrir informações particulares sobre outros aplicativos.</string>
   <string name="permlab_reorderTasks">reordenar aplicações em execução</string>
@@ -363,14 +363,14 @@
   <string name="permdesc_dump">Permite à aplicação obter o status interno do sistema. Aplicações maliciosas podem obter uma grande variedade de informações privadas e seguras que normalmente nunca deveriam precisar.</string>
   <string name="permlab_retrieve_window_content">Conteúdo relativo da tela</string>
   <string name="permdesc_retrieve_window_content">Permite que uma aplicação obtenha o conteúdo da janela ativa. As aplicações maliciosas poderão obter todo o conteúdo da janela e examinar todo o texto nela contido, exceto senhas.</string>
-  <string name="permlab_temporary_enable_accessibility">temporary enable accessibility</string>
-  <string name="permdesc_temporary_enable_accessibility">Allows an application to temporarily enable accessibility on the device. Malicious apps may enable accessibility without user consent.</string>
-  <string name="permlab_retrieve_window_info">retrieve window info</string>
-  <string name="permdesc_retrieve_window_info">Allows an application to retrieve information about the the windows from the window manager. Malicious apps may retrieve information that is intended for internal system usage.</string>
-  <string name="permlab_filter_events">filter events</string>
-  <string name="permdesc_filter_events">Allows an application to register an input filter which filters the stream of all user events before they are dispatched. Malicious app may control the system UI whtout user intervention.</string>
-  <string name="permlab_magnify_display">magnify display</string>
-  <string name="permdesc_magnify_display">Allows an application to magnify the content of a display. Malicious apps may transform the display content in a way that renders the device unusable.</string>
+  <string name="permlab_temporary_enable_accessibility">ativar temporariamente a acessibilidade</string>
+  <string name="permdesc_temporary_enable_accessibility">Permite que um aplicativo ative temporariamente a acessibilidade no telefone. Aplicativos maliciosos podem ativar a acessibilidade sem o consentimento do usuário.</string>
+  <string name="permlab_retrieve_window_info">recuperar informações de janelas</string>
+  <string name="permdesc_retrieve_window_info">Permite que o aplicativo recupere informações sobre as janelas do gerenciador de janelas. Aplicativos mal-intencionados podem recuperar informações destinadas ao uso interno do sistema.</string>
+  <string name="permlab_filter_events">filtrar eventos</string>
+  <string name="permdesc_filter_events">Permite que o aplicativo registre um filtro de entrada que filtra o fluxo de todos os eventos do usuário antes que sejam enviados. Aplicativos mal-intencionados podem controlar a interface do sistema sem a intervenção do usuário.</string>
+  <string name="permlab_magnify_display">ampliar tela</string>
+  <string name="permdesc_magnify_display">Permite que o aplicativo amplie o conteúdo de uma tela. Aplicativos maliciosos podem manipular o conteúdo da tela de modo a tornar o telefone inutilizável.</string>
   <string name="permlab_shutdown">Encerramento parcial</string>
   <string name="permdesc_shutdown">Coloca o gerenciador de atividade no estado de encerramento. Não executa o encerramento completo</string>
   <string name="permlab_stopAppSwitches">Impedir alternância entre aplicações</string>
@@ -389,8 +389,8 @@
   <string name="permdesc_setAlwaysFinish">Permite à aplicação controlar se as atividades são sempre paradas quando se deslocam para o segundo plano. Não se destina a ser utilizado por aplicações normais.</string>
   <string name="permlab_batteryStats">modificar estatísticas da bateria</string>
   <string name="permdesc_batteryStats">Permite a modificação de estatísticas recolhidas da bateria. Não se destina a ser utilizada por aplicações normais.</string>
-  <string name="permlab_updateBatteryStats">modify battery statistics</string>
-  <string name="permdesc_updateBatteryStats">Allows the app to modify collected battery statistics. Not for use by normal apps.</string>
+  <string name="permlab_updateBatteryStats">modificar estatísticas da bateria</string>
+  <string name="permdesc_updateBatteryStats">Permite que o aplicativo modifique as estatísticas coletadas da bateria. Não deve ser usado em aplicativos normais.</string>
   <string name="permlab_backup">controlar o sistema de backup e restauração</string>
   <string name="permdesc_backup">"Permite à aplicação controlar o mecanismo de cópias de segurança e de restauração do sistema. Não se destina a ser utilizado por aplicações normais"</string>
   <string name="permlab_confirm_full_backup">Confirmar uma operação de backup completo ou restauração</string>
@@ -403,8 +403,8 @@
   <string name="permdesc_setAnimationScale">Permite à aplicação alterar a velocidade da animação global (tornando as animações mais rápidas ou mais lentas) a qualquer momento.</string>
   <string name="permlab_manageAppTokens">gerenciar tokens de aplicações</string>
   <string name="permdesc_manageAppTokens">Permite às aplicações criarem e gerenciarem seus próprios tokens, passando o seu ordenamento Z normal. Nunca deve ser necessário para aplicações normais.</string>
-  <string name="permlab_freezeScreen">freeze screen</string>
-  <string name="permdesc_freezeScreen">Allows the application to temporarily freeze the screen for a full-screen transition.</string>
+  <string name="permlab_freezeScreen">congelar tela</string>
+  <string name="permdesc_freezeScreen">Permite que o aplicativo congele temporariamente a tela para uma transição de tela inteira.</string>
   <string name="permlab_injectEvents">pressionar teclas e botões de controle</string>
   <string name="permdesc_injectEvents">Permite à aplicação fornecer os seus próprios eventos de entrada (pressionar teclas, etc.) a outras aplicações. Aplicações maliciosas podem usar isto para controlar o dispositivo.</string>
   <string name="permlab_readInputState">gravar o que você digita e suas ações</string>
@@ -503,10 +503,10 @@
   <string name="permdesc_accessSurfaceFlinger">Permite à aplicação utilizar funções de nível inferior SurfaceFlinger</string>
   <string name="permlab_readFrameBuffer">ler buffer de fotos</string>
   <string name="permdesc_readFrameBuffer">Permite à aplicação ler o conteúdo da memória temporária</string>
-  <string name="permlab_configureWifiDisplay">configure Wifi displays</string>
-  <string name="permdesc_configureWifiDisplay">Allows the app to configure and connect to Wifi displays.</string>
-  <string name="permlab_controlWifiDisplay">control Wifi displays</string>
-  <string name="permdesc_controlWifiDisplay">Allows the app to control low-level features of Wifi displays.</string>
+  <string name="permlab_configureWifiDisplay">configurar monitores WiFi</string>
+  <string name="permdesc_configureWifiDisplay">Permite que o aplicativo configure e conecte a monitores Wi-Fi.</string>
+  <string name="permlab_controlWifiDisplay">controlar monitores WiFi</string>
+  <string name="permdesc_controlWifiDisplay">Permite que o aplicativo controle recursos de baixo nível de monitores Wi-Fi.</string>
   <string name="permlab_modifyAudioSettings">alterar as configurações de áudio</string>
   <string name="permdesc_modifyAudioSettings">Permite à aplicação modificar as configurações de áudio globais, tais como volume e encaminhamento</string>
   <string name="permlab_recordAudio">Gravar áudio</string>
@@ -633,8 +633,8 @@
   <string name="permdesc_sdcardWrite">Permite a uma aplicação escrever no armazenamento USB</string>
   <string name="permlab_mediaStorageWrite">Modificar/apagar conteúdo do armazenamento de multimídia interno</string>
   <string name="permdesc_mediaStorageWrite">Permite a uma aplicação modificar o conteúdo do armazenamento de multimídia interno</string>
-  <string name="permlab_sdcardAccessAll">access external storage of all users</string>
-  <string name="permdesc_sdcardAccessAll">Allows the app to access external storage for all users.</string>
+  <string name="permlab_sdcardAccessAll">acessar arm. ext. dos usuários</string>
+  <string name="permdesc_sdcardAccessAll">Permite que o aplicativo acesse o armazenamento externo para todos os usuários.</string>
   <string name="permlab_cache_filesystem">Acessar a memória cache</string>
   <string name="permdesc_cache_filesystem">Permite a uma aplicação ler e escrever no sistema de arquivos da cache</string>
   <string name="permlab_use_sip">Efetuar/receber chamadas de Internet</string>
@@ -663,8 +663,8 @@
   <string name="policydesc_encryptedStorage">Exigir que os dados de aplicativos no armazenamento do dispositivo sejam criptografados</string>
   <string name="policylab_disableCamera">Desativar câmeras</string>
   <string name="policydesc_disableCamera">Impedir o uso de todas as câmeras do dispositivo</string>
-  <string name="policylab_disableKeyguardFeatures">Disable features in keyguard</string>
-  <string name="policydesc_disableKeyguardFeatures">Prevent use of some features in keyguard.</string>
+  <string name="policylab_disableKeyguardFeatures">Desat. recursos ao bloq. teclado</string>
+  <string name="policydesc_disableKeyguardFeatures">Impede o uso de determinados recursos quando o teclado está bloqueado.</string>
   <string name="phoneTypeCustom">Personalizar</string>
   <string name="phoneTypeHome">Casa</string>
   <string name="phoneTypeMobile">Celular</string>
@@ -801,7 +801,7 @@
   <string name="lockscreen_access_pattern_cleared">Sequência apagada</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
   <string name="lockscreen_access_pattern_detected">Sequência concluída</string>
-  <string name="keyguard_accessibility_add_widget">Add widget.</string>
+  <string name="keyguard_accessibility_add_widget">Adicionar widget.</string>
   <string name="keyguard_accessibility_widget_empty_slot">Empty</string>
   <string name="keyguard_accessibility_unlock_area_expanded">Unlock area expanded.</string>
   <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
@@ -859,10 +859,10 @@
   <string name="autofill_zip_4_re">zip|^-$|post2|codpos2</string>
   <string name="autofill_city_re">city|town|ort|stadt|suburb|ciudad|provincia|localidad|poblacion|ville|commune|localita|市区町村|cidade|Город|市|分區</string>
   <string name="autofill_state_re">state|county|region|province|land|county|principality|都道府県|estado|provincia|область|省|地區</string>
-  <string name="autofill_address_type_same_as_re">same as</string>
-  <string name="autofill_address_type_use_my_re">use my</string>
-  <string name="autofill_billing_designator_re">bill</string>
-  <string name="autofill_shipping_designator_re">ship</string>
+  <string name="autofill_address_type_same_as_re">o mesmo que</string>
+  <string name="autofill_address_type_use_my_re">usar meu</string>
+  <string name="autofill_billing_designator_re">fatura</string>
+  <string name="autofill_shipping_designator_re">entrega</string>
   <string name="autofill_email_re">e.?mail|メールアドレス|Электронной.?Почты|邮件|邮箱|電郵地址</string>
   <string name="autofill_username_re">user.?name|user.?id|vollständiger.?name|用户名</string>
   <string name="autofill_name_re">^name|full.?name|your.?name|customer.?name|firstandlastname|nombre.*y.*apellidos|^nom|お名前|氏名|^nome|姓名</string>
@@ -957,7 +957,7 @@
   <string name="weeks">Semanas</string>
   <string name="year">Ano</string>
   <string name="years">Anos</string>
-  <string name="relative_time">%1$s, %2$s</string>
+  <string name="relative_time">%2$s %1$s</string>
   <string name="noon">Meio-dia</string>
   <string name="Noon">Meio-dia</string>
   <string name="midnight">meia-noite</string>
@@ -990,7 +990,7 @@
   <string name="anr_activity_process">Atividade %1$s não responde. Parar?</string>
   <string name="anr_application_process">"Aplicativo %1$s não responde. Fechar?"</string>
   <string name="anr_process">Processo %1$s não está respondendo. Quer fechá-lo?</string>
-  <string name="force_close">OK</string>
+  <string name="force_close">Concluído</string>
   <string name="report">Relatório</string>
   <string name="wait">Aguarde</string>
   <string name="webpage_unresponsive">A página não pode ser lida. Quer fechá-la?</string>
@@ -1035,7 +1035,7 @@
   <string name="ringtone_picker_title">Toques</string>
   <string name="ringtone_unknown">Toque desconhecido</string>
   <string name="wifi_available_sign_in">Verifique sua rede Wi-Fi</string>
-  <string name="network_available_sign_in">Sign into network</string>
+  <string name="network_available_sign_in">Acessar a rede</string>
   <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="wifi_watchdog_network_disabled">"Não foi possível conectar à rede Wi-Fi"</string>
   <string name="wifi_watchdog_network_disabled_detailed">" nível de sinal muito fraco."</string>
@@ -1053,21 +1053,21 @@
   <string name="wifi_p2p_to_message">Para:</string>
   <string name="wifi_p2p_enter_pin_message">Insira o PIN</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
-  <string name="wifi_p2p_frequency_conflict_message">"The phone will temporarily disconnect from Wi-Fi while it's connected to %1$s"</string>
+  <string name="wifi_p2p_frequency_conflict_message">"O telefone desconectará temporariamente da rede Wi-Fi enquanto estiver conectado a %1$s"</string>
   <string name="select_character">Inserir caracter</string>
   <string name="sms_control_title">Enviando SMS…</string>
   <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; enviando muitas mensagens SMS. Deseja permitir que continue?</string>
   <string name="sms_control_yes">Permitir</string>
   <string name="sms_control_no">Cancelar</string>
-  <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; would like to send a message to &lt;b&gt;%2$s&lt;/b&gt;.</string>
-  <string name="sms_short_code_details">This <font fgcolor="#ffffb060">may cause charges</font> on your mobile account.</string>
-  <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">This will cause charges on your mobile account.</font></string>
-  <string name="sms_short_code_confirm_allow">Send</string>
-  <string name="sms_short_code_confirm_deny">Cancel</string>
-  <string name="sms_short_code_remember_choice">Remember my choice</string>
-  <string name="sms_short_code_remember_undo_instruction">You can change this later in Settings &gt; Apps</string>
-  <string name="sms_short_code_confirm_always_allow">Always Allow</string>
-  <string name="sms_short_code_confirm_never_allow">Never Allow</string>
+  <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; deseja enviar uma mensagem para &lt;b&gt;%2$s&lt;/b&gt;.</string>
+  <string name="sms_short_code_details">Isto <font fgcolor="#ffffb060">poderá gerar cobranças</font> em sua conta de celular.</string>
+  <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Isto irá gerar cobranças em sua conta de celular.</font></string>
+  <string name="sms_short_code_confirm_allow">Enviar</string>
+  <string name="sms_short_code_confirm_deny">Cancelar</string>
+  <string name="sms_short_code_remember_choice">Lembrar opção</string>
+  <string name="sms_short_code_remember_undo_instruction">P/ alterar: Configurações &gt; Aplicativos</string>
+  <string name="sms_short_code_confirm_always_allow">Sempre permitir</string>
+  <string name="sms_short_code_confirm_never_allow">Nunca permitir</string>
   <string name="sim_removed_title">Cartão SIM removido</string>
   <string name="sim_removed_message">A rede móvel não estará disponível até você reiniciar com um cartão SIM válido inserido</string>
   <string name="sim_done_button">Conc.</string>
@@ -1079,9 +1079,9 @@
   <string name="date_time_set">Definir</string>
   <string name="date_time_done">Concluído</string>
   <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff900000">NEW: </font></string>
-  <string name="perms_description_app">Provided by %1$s.</string>
+  <string name="perms_description_app">Fornecido por %1$s.</string>
   <string name="no_permissions">Nenhuma permissão requerida</string>
-  <string name="perm_costs_money">this may cost you money</string>
+  <string name="perm_costs_money">isso pode lhe custar dinheiro</string>
   <string name="usb_storage_activity_title">Armazenamento em massa USB</string>
   <string name="usb_storage_title">USB conectado</string>
   <string name="usb_storage_message">"Telefone conectado ao computador via USB. Toque no botão abaixo para copiar arquivos entre o computador e o cartão SD."</string>
@@ -1098,7 +1098,7 @@
   <string name="dlg_confirm_kill_storage_users_title">Conectar memória ao PC</string>
   <string name="dlg_confirm_kill_storage_users_text">"A conexão ao armazenamento USB vai interroper algumas aplicações em uso. Elas podem não estar disponíveis até desativar o armazenamento USB."</string>
   <string name="dlg_error_title">Operação USB falhou</string>
-  <string name="dlg_ok">OK</string>
+  <string name="dlg_ok">Concluído</string>
   <string name="usb_mtp_notification_title">Conectado como um dispositivo de mídia</string>
   <string name="usb_ptp_notification_title">Conectado como uma câmera</string>
   <string name="usb_cd_installer_notification_title">Conactado como um instalador</string>
@@ -1169,7 +1169,7 @@
   <string name="vpn_lockdown_connecting">Always-on VPN connecting…</string>
   <string name="vpn_lockdown_connected">Always-on VPN connected</string>
   <string name="vpn_lockdown_error">Always-on VPN error</string>
-  <string name="vpn_lockdown_reset">Touch to reset connection</string>
+  <string name="vpn_lockdown_reset">Toque para redefinir a conexão</string>
   <string name="upload_file">Escolher arquivo</string>
   <string name="no_file_chosen">Não foi selecionado nenhum arquivo</string>
   <string name="reset">Zerar</string>
@@ -1199,8 +1199,8 @@
   <string name="share">Compartilhar</string>
   <string name="find">Local.</string>
   <string name="websearch">Procurar na Web</string>
-  <string name="find_next">Find next</string>
-  <string name="find_previous">Find previous</string>
+  <string name="find_next">Localizar próximo</string>
+  <string name="find_previous">Localizar anterior</string>
   <string name="gpsNotifTicker">Pedido de localização de %s</string>
   <string name="gpsNotifTitle">Pedido de localização</string>
   <string name="gpsNotifMessage">Pedido por %1$s (%2$s)</string>
@@ -1305,70 +1305,70 @@
   <string name="default_audio_route_category_name">Sistema</string>
   <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
   <string name="media_route_chooser_grouping_done">Concluído</string>
-  <string name="media_route_button_content_description">Media output</string>
-  <string name="media_route_status_scanning">Scanning...</string>
-  <string name="media_route_status_connecting">Connecting...</string>
-  <string name="media_route_status_available">Available</string>
-  <string name="media_route_status_not_available">Not available</string>
-  <string name="display_manager_built_in_display_name">Built-in Screen</string>
-  <string name="display_manager_hdmi_display_name">HDMI Screen</string>
-  <string name="display_manager_overlay_display_name">Overlay #%1$d</string>
+  <string name="media_route_button_content_description">Saída de mídia</string>
+  <string name="media_route_status_scanning">Verificando...</string>
+  <string name="media_route_status_connecting">Conectando...</string>
+  <string name="media_route_status_available">Disponível</string>
+  <string name="media_route_status_not_available">Não disponível</string>
+  <string name="display_manager_built_in_display_name">Tela integrada</string>
+  <string name="display_manager_hdmi_display_name">Tela HDMI</string>
+  <string name="display_manager_overlay_display_name">Sobreposição nº %1$d</string>
   <string name="display_manager_overlay_display_title">%1$s: %2$dx%3$d, %4$d dpi</string>
-  <string name="wifi_display_notification_title">Wireless display is connected</string>
-  <string name="wifi_display_notification_message">This screen is showing on another device</string>
-  <string name="wifi_display_notification_disconnect">Disconnect</string>
-  <string name="kg_emergency_call_label">Emergency call</string>
-  <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
-  <string name="kg_wrong_pattern">Wrong Pattern</string>
-  <string name="kg_wrong_password">Wrong Password</string>
-  <string name="kg_wrong_pin">Wrong PIN</string>
-  <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
-  <string name="kg_pattern_instructions">Draw your pattern</string>
-  <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
-  <string name="kg_pin_instructions">Enter PIN</string>
-  <string name="kg_password_instructions">Enter Password</string>
-  <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
-  <string name="kg_puk_enter_pin_hint">Enter desired PIN code</string>
-  <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
-  <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
-  <string name="kg_password_wrong_pin_code">Incorrect PIN code.</string>
-  <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
-  <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
-  <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
-  <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
-  <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
-  <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
-  <string name="kg_login_username_hint">Username (email)</string>
-  <string name="kg_login_password_hint">Password</string>
-  <string name="kg_login_submit_button">Sign in</string>
-  <string name="kg_login_invalid_input">Invalid username or password.</string>
-  <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
-Visit \"<b>google.com/accounts/recovery</b>.</string>
-  <string name="kg_login_checking_password">Checking account…</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">\"You have incorrectly typed your PIN %d times. 
+  <string name="wifi_display_notification_title">O monitor WiFi está conectado</string>
+  <string name="wifi_display_notification_message">Tela exibida em outro telefone</string>
+  <string name="wifi_display_notification_disconnect">Desconectar</string>
+  <string name="kg_emergency_call_label">Chamada de emergência</string>
+  <string name="kg_forgot_pattern_button_text">Esqueci o padrão</string>
+  <string name="kg_wrong_pattern">Padrão incorreto</string>
+  <string name="kg_wrong_password">Senha incorreta</string>
+  <string name="kg_wrong_pin">PIN incorreto</string>
+  <string name="kg_too_many_failed_attempts_countdown">Tente novamente em %d segundos.</string>
+  <string name="kg_pattern_instructions">Desenhe seu padrão</string>
+  <string name="kg_sim_pin_instructions">Digite o PIN do cartão SIM</string>
+  <string name="kg_pin_instructions">Digite o PIN</string>
+  <string name="kg_password_instructions">Digite a senha</string>
+  <string name="kg_puk_enter_puk_hint">O SIM foi desativado. Insira o código PUK para continuar. Entre em contato com a operadora para obter mais detalhes.</string>
+  <string name="kg_puk_enter_pin_hint">Digite o código PIN desejado</string>
+  <string name="kg_enter_confirm_pin_hint">Confirme o código PIN desejado</string>
+  <string name="kg_sim_unlock_progress_dialog_message">Desbloqueando cartão SIM…</string>
+  <string name="kg_password_wrong_pin_code">Código PIN incorreto.</string>
+  <string name="kg_invalid_sim_pin_hint">Digite um PIN com 4 a 8 números.</string>
+  <string name="kg_invalid_sim_puk_hint">O código PUK deve ter 8 números ou mais.</string>
+  <string name="kg_invalid_puk">Introduza novamente o código PUK correto. Muitas tentativas malsucedidas desativarão permanentemente o SIM.</string>
+  <string name="kg_invalid_confirm_pin_hint">Os códigos PIN não coincidem</string>
+  <string name="kg_login_too_many_attempts">Muitas tentativas</string>
+  <string name="kg_login_instructions">Para desbloquear, faça login com sua Conta do Google.</string>
+  <string name="kg_login_username_hint">Nome (e-mail)</string>
+  <string name="kg_login_password_hint">Senha</string>
+  <string name="kg_login_submit_button">Fazer login</string>
+  <string name="kg_login_invalid_input">Usuário ou senha inválidos.</string>
+  <string name="kg_login_account_recovery_hint">\"Esqueceu seu nome de usuário ou senha?
+Acesse \"<b>google.com.br/accounts/recovery</b>.</string>
+  <string name="kg_login_checking_password">Verificando a conta...</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">\"Você digitou seu PIN incorretamente %d vezes.
 
-Try again in %d seconds.\"</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">\"You have incorrectly typed your password %d times. 
+Tente novamente em %d segundos.\"</string>
+  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">\"Você digitou sua senha incorretamente %d vezes. 
 
-Try again in %d seconds.\"</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">\"You have incorrectly drawn your unlock pattern %d times. 
+Tente novamente em %d segundos.\"</string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">\"Você desenhou sua sequência de desbloqueio incorretamente %d vezes. 
 
-Try again in %d seconds.\"</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
-  <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. The phone will now be reset to factory default.</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">\"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using an email account.
+Tente novamente em %d segundos.\"</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Você tentou desbloquear incorretamente o telefone %d vezes. Após mais %d tentativas malsucedidas, o telefone será redefinido para o padrão de fábrica e todos os dados do usuário serão perdidos.</string>
+  <string name="kg_failed_attempts_now_wiping">Você tentou desbloquear incorretamente o telefone %d vezes. O telefone será redefinido para o padrão de fábrica.</string>
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">\"Você desenhou sua sequência de desbloqueio incorretamente %d vezes. Se fizer mais %d tentativas incorretas, será solicitado que você use o login do Google para desbloquear.
 
- Try again in %d seconds.\"</string>
+ Tente novamente em %d segundos.\"</string>
   <string name="kg_text_message_separator">" — "</string>
-  <string name="kg_reordering_delete_drop_target_text">Remove</string>
-  <string name="safe_media_volume_warning">\"Raise volume above safe level?
-Listening at high volume for long periods may damage your hearing.\"</string>
-  <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
-  <string name="accessibility_enabled">Accessibility enabled.</string>
-  <string name="enable_accessibility_canceled">Accessibility canceled.</string>
-  <string name="user_switched">Current user %1$s.</string>
-  <string name="owner_name">Owner</string>
+  <string name="kg_reordering_delete_drop_target_text">Remover</string>
+  <string name="safe_media_volume_warning">\"Aumentar o volume acima do nível seguro?
+Ouvir em volume elevado por períodos longos pode prejudicar sua audição.\"</string>
+  <string name="continue_to_enable_accessibility">Mantenha pressionado com dois dedos para ativar a acessibilidade.</string>
+  <string name="accessibility_enabled">Acessibilidade ativada.</string>
+  <string name="enable_accessibility_canceled">Acessibilidade cancelada.</string>
+  <string name="user_switched">Usuário atual %1$s.</string>
+  <string name="owner_name">Proprietário</string>
   <string name="storage_phone">Armazenamento interno</string>
   <string name="storage_external_usb">Armazenamento USB externo</string>
-  <string name="zz_keyguard_accessibility_voice_unlock">Voice unlock.</string>
+  <string name="zz_keyguard_accessibility_voice_unlock">Desbloqueio por voz.</string>
 </resources>
