@@ -11,7 +11,7 @@
   <string name="accessibility_switch_to_ev">Modo EV Bracket</string>
   <string name="accessibility_switch_to_camera">Mudar para foto</string>
   <string name="accessibility_switch_to_video">Mudar para vídeo</string>
-  <string name="accessibility_switch_to_panorama">Mudar para panorama</string>
+  <string name="accessibility_switch_to_panorama">Mudar para panorâmica</string>
   <string name="bg_replacement_message">Coloque o dispositivo sobre uma superfície estável e não se esqueça, não há movimento dentro da visualização.Quando aparecerem efeitos ao vivo na visualização, o vídeo pode ser gravado.</string>
   <string name="capture_memory_not_enough">A memória não é suficiente, por favor, feche outras aplicações.</string>
   <string name="camera_continuous_not_supported">" não é compatível com disparo contínuo."</string>
@@ -128,7 +128,7 @@
   <string name="pref_camera_continuous_number_default">40</string>
   <string name="pref_camera_continuous_number_normal">40</string>
   <string name="pref_camera_continuous_number_large">99</string>
-  <string name="panorama_guide_shutter">Pressione obturador para iniciar a captura de panorama</string>
+  <string name="panorama_guide_shutter">Pressione obturador para iniciar a captura panorâmica</string>
   <string name="panorama_guide_capture">Mova o dispositivo para sobrepor as duas linhas</string>
   <string name="pref_camera_image_properties_default">Padrão</string>
   <string name="pref_camera_image_properties_title">Prop. de imagem</string>
@@ -136,7 +136,7 @@
   <string name="pref_camera_picturesize_ratio_entry_16_9">Tela cheia</string>
   <string name="pref_camera_picturesize_ratio_entry_5_3">@string/pref_camera_picturesize_ratio_entry_16_9</string>
   <string name="pref_camera_picturesize_ratio_entry_4_3">Padrão (4:3)</string>
-  <string name="pref_camera_picturesize_ratio_title">Tam. de visualização</string>
+  <string name="pref_camera_picturesize_ratio_title">Tamanho da visualização</string>
   <string name="pref_voice_title">Controle de voz</string>
   <string name="pref_voice_default">desligado</string>
   <string name="pref_voice_entry_off">@string/pref_camera_hdr_off</string>
@@ -224,7 +224,7 @@
   <string name="preparing_sd">Preparando cartão SD...</string>
   <string name="access_sd_fail">"Impossível acessar cartão SD"</string>
   <string name="confirm_restore_message">Você deseja restaurar os padrões da câmera?</string>
-  <string name="confirm_restore_video_message">Você quer restaurar as configurações padrão de vídeo?</string>
+  <string name="confirm_restore_video_message">Você quer restaurar as configurações padrões de vídeo?</string>
   <string name="review_play">Reproduzir</string>
   <string name="review_cancel">CANCELAR</string>
   <string name="review_ok">FEITO</string>
@@ -254,8 +254,8 @@
   <string name="pref_video_quality_entry_480p">SD</string>
   <string name="pref_video_time_lapse_frame_interval_title">Intervalo de tempo transcorrido</string>
   <string name="pref_video_time_lapse_frame_interval_default">0</string>
-  <string name="pref_camera_settings_category">Configurações da Câmera</string>
-  <string name="pref_camcorder_settings_category">Configurações de Vídeo</string>
+  <string name="pref_camera_settings_category">Configuração</string>
+  <string name="pref_camcorder_settings_category">Configuração</string>
   <string name="pref_camera_picturesize_title">Tamanho da imagem</string>
   <string name="pref_camera_picturesize_entry_2592x1936">5 Megapixels</string>
   <string name="pref_camera_picturesize_entry_2048x1536">3 Megapixels</string>
@@ -313,11 +313,11 @@
   <string name="no_picture_to_share">Sem imagem para compartilhar</string>
   <string name="no_video_to_share">Sem vídeo para compartilhar</string>
   <string name="pano_too_fast_prompt">Muito rápido</string>
-  <string name="pano_dialog_prepare_preview">Preparando panorama</string>
-  <string name="pano_dialog_panorama_failed">"Impossível salvar panorama."</string>
-  <string name="pano_dialog_title">Panorama</string>
-  <string name="pano_capture_indication">Capturando panorama</string>
-  <string name="pano_dialog_waiting_previous">Esperando panorama anterior</string>
+  <string name="pano_dialog_prepare_preview">Preparando panorâmica</string>
+  <string name="pano_dialog_panorama_failed">"Impossível salvar panorâmica."</string>
+  <string name="pano_dialog_title">Panorâmica</string>
+  <string name="pano_capture_indication">Capturando panorâmica</string>
+  <string name="pano_dialog_waiting_previous">Esperando panorâmica anterior</string>
   <string name="pano_review_saving_indication_str">Salvando…</string>
   <string name="tap_to_focus">Toque para focar</string>
   <string name="pref_video_effect_default">none</string>
@@ -341,7 +341,7 @@
   <string name="accessibility_shutter_button">Botão do obturador</string>
   <string name="accessibility_review_thumbnail">Foto mais recente</string>
   <string name="accessibility_camera_picker">Interruptor câmera frontal e traseira</string>
-  <string name="accessibility_mode_picker">Seletor câmera, vídeo, ou panorama</string>
+  <string name="accessibility_mode_picker">Seletor câmera, vídeo ou panorâmica</string>
   <string name="accessibility_second_level_indicators">Mais controles de ajuste</string>
   <string name="accessibility_back_to_first_level">Fechar os controles de ajuste</string>
   <string name="accessibility_zoom_control">Controle de zoom</string>
@@ -353,7 +353,7 @@
   <string name="pref_settings_photo_grp_title">Configurações da Câmera</string>
   <string name="pref_settings_photo_location">Localização GPS</string>
   <string name="pref_settings_photo_quality">Qualidade do JPG</string>
-  <string name="pref_settings_photo_sizes">Tam. da imagem</string>
+  <string name="pref_settings_photo_sizes">Resolução da imagem</string>
   <string name="pref_settings_photo_snap_voice">Obturador silencioso</string>
   <string name="pref_settings_photo_auto_focus">Foco automático</string>
   <string name="pref_settings_photo_long_power_pressed">Power key shutter</string>
@@ -367,13 +367,13 @@
   <string name="pref_settings_photo_metetring">Medição</string>
   <string name="pref_settings_photo_white_balance">Balanço de branco</string>
   <string name="pref_settings_photo_iso">ISO</string>
-  <string name="pref_settings_photo_antibanding">Estabilização</string>
+  <string name="pref_settings_photo_antibanding">Anti-tremulação</string>
   <string name="pref_settings_photo_face_detection">Detecção de face</string>
   <string name="pref_settings_photo_continuous_capture">Fotos contínuas</string>
   <string name="pref_settings_photo_restore">Restaurar padrão</string>
   <string name="self_num_0">0</string>
   <string name="pref_settings_video_title">Configurações de vídeo</string>
-  <string name="pref_settings_weather_title">Clima de Neve</string>
+  <string name="pref_settings_weather_title">Mostrar clima</string>
   <string name="pref_settings_weather_none_data">Nenhum dado</string>
   <string name="pref_settings_close">Fechar</string>
   <string name="none_weather_data_tip">Nenhuma informação de clima, por favor, abra o aplicativo de tempo do sistema para atualizá-lo!</string>
@@ -645,7 +645,7 @@
   <string name="confirm">Confirmar</string>
   <string name="cancel">Cancelar</string>
   <string name="share">Compartilhar</string>
-  <string name="share_panorama">Compart. panorama</string>
+  <string name="share_panorama">Compartilhar panorâmica</string>
   <string name="share_as_photo">Compart. como foto</string>
   <string name="deleted">Apagar</string>
   <string name="undo">Desfazer</string>
@@ -765,7 +765,7 @@
   <string name="please_wait">Aguarde</string>
   <string name="save_into">Salvar segmento de vídeo no álbum:</string>
   <string name="trim_too_short">Não pode cortar, o vídeo é muito curto</string>
-  <string name="pano_progress_text">Gerando panorama</string>
+  <string name="pano_progress_text">Gerando panorâmica</string>
   <string name="f360_DepthClean">DepthClean</string>
   <string name="f360_DepthWhitening">DepthWhitening</string>
   <string name="f360_CleanBW">CleanBW</string>
