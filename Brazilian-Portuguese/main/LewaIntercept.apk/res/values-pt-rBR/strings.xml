@@ -98,7 +98,7 @@
   <string name="addwhite_inblack">O número %s já está na lista negra, você quer apagar o número duplicado na lista negra?</string>
   <string name="addwhite_ok">O número %s já foi adicionado à lista branca, você quer restaurar todas as mensagens de texto deste número?</string>
   <string name="addwhite_already_ok">O número %s já na lista branca, você quer restaurar tudo deste número?</string>
-  <string name="unknown">unknown</string>
+  <string name="unknown">desconhecido</string>
   <string name="intercept_recovery_about">Também restaurar os dados relacionados</string>
   <string name="dialog_item_add2whitelist_also">Também adicionar à lista branca</string>
   <string name="twelve_hour_time_format">ah:mm</string>
@@ -225,15 +225,15 @@
   <string name="number_fragment_title">Número</string>
   <string name="interceptinfo_fragment_title">Bloquear</string>
   <string name="setting_fragment_title">Opções</string>
-  <string name="update_tone">Attention!</string>
-  <string name="update_note_version">The current virus library %s is out of date!</string>
-  <string name="update_notice">Please update to the latest version:</string>
-  <string name="update_note_size">Update size: %s</string>
-  <string name="log_today">Today</string>
-  <string name="log_yesterday">Yesterday</string>
-  <string name="log_beforeyesterday">Before</string>
-  <string name="recovering_to_msg_list">Recovering to SMS conversation....</string>
-  <string name="recovering_to_calllog">Recovering to calllog....</string>
-  <string name="title_unknown_number">Unknown number</string>
-  <string name="ic_more">More</string>
+  <string name="update_tone">Atenção!</string>
+  <string name="update_note_version">A biblioteca de vírus %s está antiga!</string>
+  <string name="update_notice">Favor atualizar pra última versão:</string>
+  <string name="update_note_size">Tamanho da atualização: %s</string>
+  <string name="log_today">Hoje</string>
+  <string name="log_yesterday">Ontem</string>
+  <string name="log_beforeyesterday">Antes</string>
+  <string name="recovering_to_msg_list">Recuperando a conversa SMS...</string>
+  <string name="recovering_to_calllog">Recuperando registro de chamada...</string>
+  <string name="title_unknown_number">Número desconhecido</string>
+  <string name="ic_more">Mais</string>
 </resources>

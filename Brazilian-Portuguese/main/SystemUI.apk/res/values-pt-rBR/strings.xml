@@ -3,8 +3,8 @@
 <resources>
   <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
   <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
-  <string name="status_bar_date_formatter">"%2$s
-  %1$s"</string>
+  <string name="status_bar_date_formatter">\"%2$s
+%1$s\"</string>
   <string name="gemini_default_sim_always_ask">Perguntar sempre</string>
   <string name="accessibility_phone_four_bars">Telefone quatro barras</string>
   <string name="sim_switch_tip">Este SIM foi definido padrão para %s. Segure e arraste a Barra de Status para alterar o cartão SIM padrão.</string>
@@ -12,7 +12,7 @@
   <string name="voice_call_service">serviço de chamada de voz</string>
   <string name="messages_service">serviço de mensagem</string>
   <string name="data_connection_service">serviço de conexão de dados</string>
-  <string name="wifi">WiFi</string>
+  <string name="wifi">Wi-Fi</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="mobile">Con. de dados</string>
   <string name="gps">GPS</string>
@@ -59,7 +59,7 @@
   <string name="screenshot_saving_text">Salvando captura de tela...</string>
   <string name="screenshot_saved_title">Captura de tela efetuada.</string>
   <string name="screenshot_saved_text">Toque para ver a captura de tela</string>
-  <string name="screenshot_failed_title">"Não foi possível obter captura de tela."</string>
+  <string name="screenshot_failed_title">"Não foi possível capturar a tela."</string>
   <string name="screenshot_failed_text">"Não foi possível salvar a captura de tela. O armazenamento pode estar em uso."</string>
   <string name="app_label">UI do sist.</string>
   <string name="status_bar_do_not_disturb_button">Não incomodar</string>
@@ -71,7 +71,7 @@
   <string name="status_bar_ongoing_events_title">Em curso</string>
   <string name="invalid_charger">Carregamento USB não suportado. Utilize apenas o carregador fornecido.</string>
   <string name="status_bar_settings_settings_button">Configurações</string>
-  <string name="status_bar_settings_wifi_button">WiFi</string>
+  <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_settings_airplane">Modo Avião</string>
   <string name="status_bar_settings_auto_rotation">Girar tela automaticamente</string>
   <string name="status_bar_settings_mute_label">MUDO</string>
@@ -127,7 +127,7 @@
   <string name="accessibility_wifi_one_bar">Uma barra de Wi-Fi.</string>
   <string name="accessibility_wifi_two_bars">Duas barras de Wi-Fi.</string>
   <string name="accessibility_wifi_three_bars">Três barras de Wi-Fi.</string>
-  <string name="accessibility_wifi_signal_full">Sinal Wi-Fi completo.</string>
+  <string name="accessibility_wifi_signal_full">Sinal de Wi-Fi cheio.</string>
   <string name="accessibility_no_wimax">Sem WiMAX.</string>
   <string name="accessibility_wimax_one_bar">Uma barra de WiMAX.</string>
   <string name="accessibility_wimax_two_bars">Duas barras de WiMAX.</string>
@@ -139,7 +139,7 @@
   <string name="accessibility_data_connection_4g">4G</string>
   <string name="accessibility_data_connection_cdma">CDMA</string>
   <string name="accessibility_data_connection_edge">EDGE</string>
-  <string name="accessibility_data_connection_wifi">WiFi</string>
+  <string name="accessibility_data_connection_wifi">Wi-Fi</string>
   <string name="accessibility_no_sim">Sem SIM.</string>
   <string name="accessibility_bluetooth_tether">Bluetooth via Celular</string>
   <string name="accessibility_airplane_mode">Modo Avião</string>
@@ -154,7 +154,7 @@
   <string name="accessibility_ringer_silent">Campainha em silêncio.</string>
   <string name="accessibility_recents_item_dismissed">%s ignorado.</string>
   <string name="status_bar_settings_signal_meter_disconnected">Sem ligação internet</string>
-  <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi ligado</string>
+  <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi conectado</string>
   <string name="gps_notification_searching_text">Procurando GPS</string>
   <string name="gps_notification_found_text">Localização definida por GPS</string>
   <string name="accessibility_clear_all">Limpar todas as notificações.</string>
@@ -180,14 +180,14 @@
   <string name="title_toggle_bluetooth">BT</string>
   <string name="title_toggle_gps">GPS</string>
   <string name="title_toggle_vibrator">Vibração</string>
-  <string name="title_toggle_brightness">Luz de fundo</string>
+  <string name="title_toggle_brightness">Brilho</string>
   <string name="title_toggle_sync">Alternar sinc</string>
   <string name="title_toggle_wifiap">Alternar Wifi AP</string>
   <string name="title_toggle_mobiledata">Dados</string>
   <string name="title_toggle_networkmode">2G/3G</string>
   <string name="title_toggle_autorotate">Rotação</string>
-  <string name="title_toggle_airplane">Vôo</string>
-  <string name="title_toggle_flashlight">Alternar LED lanterna</string>
+  <string name="title_toggle_airplane">Modo Avião</string>
+  <string name="title_toggle_flashlight">Lanterna</string>
   <string name="title_toggle_sleep">Adormecer</string>
   <string name="title_toggle_locknow">Travar</string>
   <string name="title_toggle_shutdown">Ligar</string>
@@ -195,7 +195,7 @@
   <string name="title_toggle_powermanager">Power+</string>
   <string name="title_toggle_switchwidgetstyle">Mais</string>
   <string name="title_toggle_screencapture">Captura</string>
-  <string name="title_qr_code">QR code</string>
+  <string name="title_qr_code">QR Code</string>
   <string name="title_nightmode">Noturno</string>
   <string name="title_halo">Halo</string>
   <string name="switchwidgetsettings_title">Posições na tela</string>
@@ -230,7 +230,7 @@
   <string name="power_battery_full">Bateria carregada. Desligue o carregador.</string>
   <string name="lockscreen_expanded">Expansível em tela cheia</string>
   <string name="lockscreen_expanded_comman">apenas funcional para teclados inseguros</string>
-  <string name="title_toggle_gemini_data">Cartão de dados</string>
+  <string name="title_toggle_gemini_data">SIM de Dados</string>
   <string name="recent_noapp">Sem apps recentes</string>
   <string name="notifilter_cloud">Notifications Intercept Cloud</string>
   <string name="notifilter_addtoblack">Adicionar à lista negra</string>

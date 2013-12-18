@@ -6,13 +6,13 @@
   <string name="button_cancel">Cancelar</string>
   <string name="confirm_radio_title">SIM desligado</string>
   <string name="confirm_radio_msg">%1$s está desligado. Deseja ligar este cartão SIM?</string>
-  <string name="confirm_radio_flight_mode_on_and_msg">Flight mode is on and</string>
-  <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s is now turned off. Would you like to turn off the flight mode and turn on this SIM card?</string>
-  <string name="confirm_radio_flight_mode_on_sim_on_msg">Flight mode is on. Would you like to turn off the flight mode?</string>
+  <string name="confirm_radio_flight_mode_on_and_msg">Modo avião está ligado e</string>
+  <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s está desligado. Gostaria de desativar o modo avião e ligar este cartão SIM?</string>
+  <string name="confirm_radio_flight_mode_on_sim_on_msg">Modo avião ligado. Gostaria de desativá-lo?</string>
   <string name="confirm_radio_msg_single">O Modo Avião está ligado, quer desligá-lo?</string>
   <string name="confirm_pin_title">SIM bloqueado</string>
   <string name="confirm_pin_msg">O cartão SIM selecionado está bloqueado. Por favor, desbloquei-o primeiro.</string>
-  <string name="confirm_simmelock_title">SIM ME locked</string>
+  <string name="confirm_simmelock_title">SIM ME trancado</string>
   <string name="confirm_simmelock_msg">A ranhura SIM selecionada está agora bloqueada. Por favor, desbloquei-a primeiro.</string>
   <string name="confirm_fdn_title">FDN ativado</string>
   <string name="confirm_fdn_msg">Os números de discagem fixa estão ativados.</string>

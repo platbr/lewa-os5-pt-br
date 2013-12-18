@@ -60,7 +60,7 @@
   <string name="title_have_turned_on">Dispositivo anti-roubo foi ativado</string>
   <string name="pref_sim_lock">Preferências de bloqueio de SIM</string>
   <string name="pref_sim_lock_title">bloquear telefone depois de mudar o cartão SIM</string>
-  <string name="pref_sim_lock_summary">lock phone after changing sim card</string>
+  <string name="pref_sim_lock_summary">telefone trava depois de mudar o cartão sim</string>
   <string name="pref_password">Preferências de senha</string>
   <string name="pref_password_title">Senha</string>
   <string name="pref_security_number">Preferências do número de segurança</string>

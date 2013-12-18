@@ -3,7 +3,7 @@
 <resources>
   <string name="flashDevice">/sys/class/leds/flashlight/brightness</string>
   <string name="app_name">Lanterna</string>
-  <string name="prompt">Hold HOME key to turn on light in lock screen mode.</string>
-  <string name="errorCameraOpenTitle">Flashlight error</string>
-  <string name="errorCameraOpenMessage">"Can't open flashlight, some apps are using the camera interface"</string>
+  <string name="prompt">Segure a tecla HOME para ligar a lanterna na tela de bloqueio.</string>
+  <string name="errorCameraOpenTitle">Erro na lanterna</string>
+  <string name="errorCameraOpenMessage">"Não é possível abrir a lanterna, algum aplicativo está usando a câmera"</string>
 </resources>

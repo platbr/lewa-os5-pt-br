@@ -180,7 +180,7 @@
   <string name="category_apk">Apks</string>
   <string name="category_document">Docs</string>
   <string name="category_music">Músicas</string>
-  <string name="category_other">Misc</string>
+  <string name="category_other">Diversos</string>
   <string name="category_picture">Fotos</string>
   <string name="category_theme">Temas</string>
   <string name="category_video">Vídeos</string>
@@ -287,8 +287,8 @@
   <string name="external_sd_card_available">Disponível: %1$s</string>
   <string name="internal_sd_card_size">Mem. Interna: %1$s</string>
   <string name="internal_sd_card_available">Resta: %1$s</string>
-  <string name="usb_otg_card_size">USB Storage: %1$s</string>
-  <string name="usb_otg_card_available">Available: %1$s</string>
+  <string name="usb_otg_card_size">Armazenamento USB: %1$s</string>
+  <string name="usb_otg_card_available">Disponível: %1$s</string>
   <string name="hide_file">Ocultar arquivos</string>
   <string name="file_doesnt_exist">Arquivo não existe</string>
   <string name="file_deleted">Excluído</string>
@@ -339,6 +339,6 @@
   <string name="file_info_status">Estado</string>
   <string name="usbotg_title">USB OTG</string>
   <string name="usbotg_name">USB OTG</string>
-  <string name="sdcard_io_error">Sdcard error</string>
+  <string name="sdcard_io_error">Erro no cartão SD</string>
   <string name="FileListDateFormat">yyyy/MM/dd</string>
 </resources>

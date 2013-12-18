@@ -7,7 +7,7 @@
   <string name="no_downloads">Não há transferências.</string>
   <string name="no_downloading">Não transferindo</string>
   <string name="no_downloaded">Não transferidos</string>
-  <string name="missing_title">&lt;Unknown&gt;</string>
+  <string name="missing_title">&lt;Desconhecido&gt;</string>
   <string name="button_sort_by_size">Ordenar por tamanho</string>
   <string name="button_sort_by_date">Ordenar por data</string>
   <string name="download_queued">Em fila</string>

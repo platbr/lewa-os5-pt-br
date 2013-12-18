@@ -14,11 +14,11 @@
   <string name="read_write_all_voicemail_label">Acesso a todas as mensagens de correio de voz</string>
   <string name="read_write_all_voicemail_description">Permite à aplicação salvar e recuperar todas as mensagens de correio de voz que este aparelho pode acessar.</string>
   <string name="voicemail_from_column">"Correio de voz de "</string>
-  <string name="debug_dump_title">Copy contacts database</string>
-  <string name="debug_dump_database_message">You are about to 1) make a copy of your database which includes all contacts related information and all call log to the internal storage, and 2) email it. Remember to delete the copy as soon as you have successfully copied it off the device or the email is received.</string>
-  <string name="debug_dump_delete_button">Delete now</string>
-  <string name="debug_dump_start_button">Start</string>
-  <string name="debug_dump_email_sender_picker">Choose a program to send your file</string>
-  <string name="debug_dump_email_subject">Contacts Db attached</string>
-  <string name="debug_dump_email_body">Attached is my contacts database with all my contacts information. Handle with care.</string>
+  <string name="debug_dump_title">Copiar base de contatos</string>
+  <string name="debug_dump_database_message">Você está prestes a: 1) fazer uma cópia do seu banco de dados que inclui todas as informações de contatos e registro de todas as chamadas para o armazenamento interno e 2) enviá-la por e-mail. Lembre-se de excluir a cópia após o envio do e-mail.</string>
+  <string name="debug_dump_delete_button">Excluir agora</string>
+  <string name="debug_dump_start_button">Iníciar</string>
+  <string name="debug_dump_email_sender_picker">Selecione um aplicativo para enviar seu arquivo</string>
+  <string name="debug_dump_email_subject">Base de contatos em anexo</string>
+  <string name="debug_dump_email_body">Em anexo está minha base de contatos. Manuseie com cuidado.</string>
 </resources>
