@@ -6,7 +6,7 @@
   <string name="sdcard_missing_message">Não existe um cartão SD inserido.</string>
   <string name="video_list_empty">Não existem vídeos no cartão SD.</string>
   <string name="detail_title">Título: %1$s</string>
-  <string name="detail_date_taken">Tomada: %1$s</string>
+  <string name="detail_date_taken">Levou: %1$s</string>
   <string name="detail_path">Caminho: %1$s</string>
   <string name="detail_filesize">Tamanho do arquivo: %1$s</string>
   <string name="detail_duration">Duração: %1$s</string>
