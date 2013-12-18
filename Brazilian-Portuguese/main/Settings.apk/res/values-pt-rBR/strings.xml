@@ -295,7 +295,7 @@
   <string name="eap_sim_aka_airplanemode">Desative o modo avião para usar EAP-SIM/AKA</string>
   <string name="eap_sim_aka_no_sim_error">Insira um cartão SIM para usar EAP-SIM/AKA</string>
   <string name="eap_sim_aka_no_sim_slot_selected">Selecione uma ranhura do SIM para usar EAP-SIM/AKA</string>
-  <string name="wifi_security_wapi_psk">WAPI PSK</string>
+  <string name="wifi_security_wapi_psk"> WPA-PSK</string>
   <string name="wifi_security_wapi_certificate">Certificado WAPI</string>
   <string name="wapi_user_certificate">Certificado do usuário</string>
   <string name="wapi_as_certificate">Certificado ASE</string>

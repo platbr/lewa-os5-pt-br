@@ -3,8 +3,8 @@
 <resources>
   <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
   <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
-  <string name="status_bar_date_formatter">%2$s
-%1$s</string>
+  <string name="status_bar_date_formatter">\"%2$s
+%1$s\"</string>
   <string name="gemini_default_sim_always_ask">Perguntar sempre</string>
   <string name="accessibility_phone_four_bars">Telefone quatro barras</string>
   <string name="sim_switch_tip">Este SIM foi definido padrão para %s. Segure e arraste a Barra de Status para alterar o cartão SIM padrão.</string>
