@@ -192,7 +192,7 @@
   <string name="title_toggle_locknow">Travar</string>
   <string name="title_toggle_shutdown">Ligar</string>
   <string name="title_toggle_reboot">Reiniciar</string>
-  <string name="title_toggle_powermanager">Power+</string>
+  <string name="title_toggle_powermanager">Bateria+</string>
   <string name="title_toggle_switchwidgetstyle">Mais</string>
   <string name="title_toggle_screencapture">Captura</string>
   <string name="title_qr_code">QR Code</string>
