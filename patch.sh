@@ -1,0 +1,1 @@
+perl -p -i -e s/'<string name="status_bar_date_formatter">\\"%2$s'/'<string name="status_bar_date_formatter">"%2$s'/g,s/'^%1\$s\\"<\/string>'/'%1\$s\"<\/string>'/g Brazilian-Portuguese/main/SystemUI.apk/res/values-pt-rBR/strings.xml
