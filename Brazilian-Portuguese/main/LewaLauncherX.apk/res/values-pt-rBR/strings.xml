@@ -19,14 +19,14 @@
   <string name="power_h">h</string>
   <string name="power_m">m</string>
   <string name="torch">Lanterna</string>
-  <string name="safe_scanning">Varrendo...</string>
+  <string name="safe_scanning">Verificando...</string>
   <string name="safe_scanning_error">Erro na varredura, tente novamente mais tarde</string>
   <string name="safe_status_one">Verificado</string>
   <string name="safe_status_two">"dias sem verificação"</string>
   <string name="safe_status_three">Nunca otimizar</string>
-  <string name="clean_toast_str0">Foi otimizado</string>
-  <string name="clean_toast_str1">\"Liberado: %1$d M
-Livre: %2$d M\"</string>
+  <string name="clean_toast_str0">Já estava otimizado ao máximo</string>
+  <string name="clean_toast_str1">Liberado: %1$dM
+Livre: %2$dM</string>
   <string name="config_workspaceDefaultTransitionEffect">Padrão</string>
   <string name="application_name">Launcher</string>
   <string name="home">Principal</string>
@@ -49,7 +49,7 @@ Livre: %2$d M\"</string>
   <string name="group_wallpapers">Papéis de Parede</string>
   <string name="completely_out_of_space">Não há mais espaço em suas telas.</string>
   <string name="out_of_space">Tela inicial sem mais espaço</string>
-  <string name="hotseat_out_of_space">No more room on the hotseat.</string>
+  <string name="hotseat_out_of_space">Não há mais espaço no hotseat.</string>
   <string name="invalid_hotseat_item">Este Widget é muito grande</string>
   <string name="shortcut_installed">Atalho \"%s\" criado.</string>
   <string name="shortcut_uninstalled">Atalho \"%s\" foi removido.</string>
