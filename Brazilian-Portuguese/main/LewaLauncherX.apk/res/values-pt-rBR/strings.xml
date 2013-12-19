@@ -25,8 +25,8 @@
   <string name="safe_status_two">"dias sem verificação"</string>
   <string name="safe_status_three">Nunca otimizar</string>
   <string name="clean_toast_str0">Já estava otimizado ao máximo</string>
-  <string name="clean_toast_str1">Liberado: %1$dM
-Livre: %2$dM</string>
+  <string name="clean_toast_str1">\"\"Liberado: %1$dM
+Total Livre: %2$dM\"\"</string>
   <string name="config_workspaceDefaultTransitionEffect">Padrão</string>
   <string name="application_name">Launcher</string>
   <string name="home">Principal</string>
