@@ -1,0 +1,2 @@
+perl -p -i -e s/'<string name="status_bar_date_formatter">\\"%2$s'/'<string name="status_bar_date_formatter">"%2$s'/g,s/'^%1\$s\\"<\/string>'/'%1\$s\"<\/string>'/g Brazilian-Portuguese/main/SystemUI.apk/res/values-pt-rBR/strings.xml
+perl -p -i -e s/'<string name="clean_toast_str1">\\"Liberado: %1\$dM'/'<string name="clean_toast_str1">"Liberado: %1\$dM'/g,s/'Total Livre: %2\$dM\\"<\/string>'/'Total Livre: %2\$dM"<\/string>'/g Brazilian-Portuguese/main/LewaLauncherX.apk/res/values-pt-rBR/strings.xml
