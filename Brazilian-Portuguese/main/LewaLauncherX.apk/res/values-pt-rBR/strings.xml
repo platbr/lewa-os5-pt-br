@@ -127,7 +127,7 @@ Total Livre: %2$dM"</string>
   <string name="uninstall_widget_text">Widget não pode ser desinstalado.</string>
   <string name="cannot_delete_widget_text">O Widget não pode ser apagado.</string>
   <string name="cannot_delete_app_text">Aplicativo não pode ser excluído.</string>
-  <string name="system_tool_folder">Utils</string>
+  <string name="system_tool_folder">Ferramentas</string>
   <string name="system_secrity_folder">Sistema</string>
   <string name="new_rom_hint">Novo</string>
   <string name="onekey_lockscreen">Tela de bloqueio</string>
