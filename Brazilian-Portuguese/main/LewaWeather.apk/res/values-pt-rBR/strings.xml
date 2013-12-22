@@ -5,7 +5,7 @@
   <string name="app_name">Clima</string>
   <string name="cancel">cancelar</string>
   <string name="day_string">dia</string>
-  <string name="di_string">Num.</string>
+  <string name="di_string">N.º</string>
   <string name="PM">PM</string>
   <string name="AM">AM</string>
   <string name="nian">ano</string>
@@ -43,7 +43,7 @@
   <string name="shidu">Umidade</string>
   <string name="nodata">Sem dados</string>
   <string name="temporary">Temporário</string>
-  <string name="tomorrow">Próximo</string>
+  <string name="tomorrow">Amanhã</string>
   <string name="sunshine">Bom</string>
   <string name="del_success">excluir com sucesso</string>
   <string name="del_fail">falha ao excluir</string>
@@ -61,7 +61,7 @@
   <string name="widget_transparent">widget transparente</string>
   <string name="widget_v5">clima</string>
   <string name="lunar">lunar</string>
-  <string name="yue">Mês</string>
+  <string name="yue">月</string>
   <string name="ri">日</string>
   <string name="AQI">AQI</string>
   <string name="zhouyi">周一</string>
