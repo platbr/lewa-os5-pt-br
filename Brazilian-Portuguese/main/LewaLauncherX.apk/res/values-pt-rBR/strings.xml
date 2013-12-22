@@ -27,7 +27,7 @@
   <string name="clean_toast_str0">Já estava otimizado ao máximo</string>
   <string name="clean_toast_str1">"Liberado: %1$dM
 Total Livre: %2$dM"</string>
-  <string name="config_workspaceDefaultTransitionEffect">Padrão</string>
+  <string name="config_workspaceDefaultTransitionEffect">Standard</string>
   <string name="application_name">Launcher</string>
   <string name="home">Principal</string>
   <string name="uid_name">Aplicação core Android</string>
