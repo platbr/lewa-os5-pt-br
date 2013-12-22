@@ -5,7 +5,7 @@
   <string name="app_name">Clima</string>
   <string name="cancel">cancelar</string>
   <string name="day_string">dia</string>
-  <string name="di_string">N. º</string>
+  <string name="di_string">Num.</string>
   <string name="PM">PM</string>
   <string name="AM">AM</string>
   <string name="nian">ano</string>
