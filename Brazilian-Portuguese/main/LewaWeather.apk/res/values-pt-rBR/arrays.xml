@@ -3,12 +3,12 @@
 <resources>
   <string-array name="week">
     <item></item>
-    <item>Sunday</item>
-    <item>Monday</item>
-    <item>Tuesday</item>
-    <item>Quarta-feira</item>
-    <item>Thursday</item>
-    <item>Friday</item>
-    <item>Saturday</item>
+    <item>Domingo</item>
+    <item>Segunda</item>
+    <item>Terça</item>
+    <item>Quarta</item>
+    <item>Quinta</item>
+    <item>Sexta</item>
+    <item>Sábado</item>
   </string-array>
 </resources>
